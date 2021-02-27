@@ -12,7 +12,7 @@ Our software is guaranteed **virus free** [check with VirusTotal](https://www.vi
 + [Check our website](https://shonned.github.io/tools-css/) 🌐
 + [Check our documentation](https://shonned.github.io/tools-css/doc.html) 📖
 + [Download Tools.css](https://shonned.github.io/tools-css/) 🦄
-#### [Download] ➤ [Click](https://github.com/Shonned/TOOLSUpdater/raw/main/TOOLSUpdater.exe)
+#### [Download] ➤ [Click](https://github.com/Shonned/TOOLSUpdater/releases/tag/1.0)
 #### [Updater version] ➤ 1.0.0 ⬇️
 #### Check the [changelog](CHANGELOG.md)
 #### Created with 🥖 and C# in France by [@Shonned](https://instagram.com/067pm).
